@@ -17,7 +17,7 @@ class QuestionTree
     "Is it bigger than a microwave?",
     "Is it bigger than a microwave?",
     "rainbow",
-    "coaster",
+    "flower",
     "car",
     "peanut"
   ]

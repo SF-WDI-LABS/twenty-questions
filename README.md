@@ -29,7 +29,7 @@ A tree can represent the questions that should be asked. When we get a "yes" ans
 Start by creating an empty Ruby file. In that file, write a basic `TreeNode` class. The only thing this class really needs is an `initialize` method and some attributes.
 
 <details><summary>
-Recall: What information does a `TreeNode` know? Based on that, what attributes do we need?
+Recall: What information does a TreeNode know? Based on that, what attributes do we need?
 </summary>
 
 A `TreeNode` knows three things: its own value, its left child, and its right child. Those are the three attributes that your `TreeNode` will likely need.

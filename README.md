@@ -33,6 +33,7 @@ A `TreeNode` knows three things: its own value, its left child, and its right ch
 </details>
 <br>
 Once you have this class written, try using irb to import your class and create a couple of simple TreeNodes.
+
 #### Step 2: Initialize a basic tree.
 Once you've written that `TreeNode` class, it's time to use it to build a tree! To start, you should hard-code in a very basic tree, probably to play the game "two questions" rather than "twenty questions". You could also hard-code the example tree given at the end of Step 0.
 

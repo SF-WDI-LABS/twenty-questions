@@ -20,7 +20,9 @@ Start by [playing a game](http://www.20q.net/) to remind yourself how 20 questio
 
 <details><summary>How does a tree relate to playing 20 questions?</summary>
 A tree can represent the questions that should be asked. When we get a "yes" answer, we can move to the right child; when we get a "no" answer, move left down the tree. That way, the node that we are at "records" what the previous answers to questions have been.
+
 ![](http://math.hws.edu/eck/cs225/s10/lab5/tree.png)
+
 </details>
 
 #### Step 1: Make a basic Tree class.
